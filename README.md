@@ -1,2 +1,2 @@
 # javaQuesnAns
-in this repository we do some exaple of java
+in this repository we do some example of java
